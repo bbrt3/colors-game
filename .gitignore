@@ -74,4 +74,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Large content files
-Content/*
+Content/*/Meshes/*
